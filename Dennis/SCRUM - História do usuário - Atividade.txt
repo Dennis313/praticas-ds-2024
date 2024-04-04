@@ -1,0 +1,17 @@
+Nos últimos anos, o conceito de fidelização de clientes tornou-se uma estratégia fundamental para empresas de diversos setores. Em um mercado competitivo e em constante mudança, manter os clientes satisfeitos e engajados é
+essencial para o sucesso e a sustentabilidade dos negócios. Nesse contexto, os programas de fidelidade surgem como uma ferramenta eficaz para incentivar a repetição de compras, aumentar o valor do ticket médio e fortalecer o 
+relacionamento entre empresa e cliente.
+O presente trabalho tem como objetivo desenvolver e analisar um sistema de fidelidade para uma empresa local, visando entender seu impacto na retenção de clientes e no aumento da rentabilidade do negócio. Serão abordados
+aspectos teóricos relacionados à fidelização de clientes, bem como a aplicação prática dos conceitos por meio do desenvolvimento e implementação do sistema de fidelidade.
+O sistema proposto será projetado levando em consideração as necessidades específicas da empresa, assim como as expectativas e preferências dos clientes. Serão exploradas tecnologias modernas e boas práticas
+de desenvolvimento de software para garantir a eficiência, segurança e escalabilidade do sistema. Além disso, serão realizados testes rigorosos para avaliar a usabilidade e a eficácia do sistema em um ambiente real.
+Por meio deste trabalho, espera-se contribuir para o avanço do conhecimento na área de fidelização de clientes, fornecendo insights valiosos sobre a importância e os benefícios de um programa de fidelidade bem elaborado.
+Ao final do estudo, serão apresentadas conclusões e recomendações para a empresa cliente, visando auxiliá-la na tomada de decisões estratégicas relacionadas à gestão do relacionamento com seus clientes.
+
+
+
+1) Após inserir minhas credenciais de login, devo ter a opção de ativar a autenticação de dois fatores, usuario, e senha. 
+2) Ao ativar a autenticação de dois fatores, devo receber um codigo de verificação por SMS. 
+3) Devo ser capaz de inserir corretamente o código de verificação para acessar minha conta.
+4) Caso insira um código incorreto, devo receber uma mensagem de erro e ter a chance de tentar novamente. 
+5)Deve haver uma opção clara no menu de configurações para desativar a autenticação de dois farotes.
