@@ -1,0 +1,17 @@
+Funcionalidades Principais:
+
+1) Registro de Transações: O sistema permitirá o registro automático de transações de clientes, acumulando pontos de acordo com o valor gasto em cada compra.
+2) Programa de Pontos: Os clientes poderão acumular pontos conforme o valor das transações realizadas. Esses pontos poderão ser posteriormente
+resgatados por recompensas ou benefícios exclusivos.
+3)Gerenciamento de Recompensas: A plataforma possibilitará o gerenciamento eficiente das recompensas oferecidas aos clientes, incluindo a
+definição de prêmios, validade dos pontos e acompanhamento do histórico de resgates.
+Curto Prazo:
+
+Concluir a análise de requisitos e o levantamento de informações sobre as necessidades da empresa e dos clientes.
+Iniciar o desenvolvimento do sistema de fidelidade, priorizando as funcionalidades essenciais para o MVP (Minimum Viable Product).
+Realizar testes de usabilidade e correções de bugs para garantir a qualidade inicial do sistema.
+Longo Prazo:
+Implementar funcionalidades adicionais, como integração com sistemas de pagamento e envio de notificações personalizadas para os clientes.
+Expandir a base de clientes participantes do programa de fidelidade e monitorar os resultados obtidos em termos de retenção e rentabilidade.
+Continuar aprimorando o sistema com base no feedback dos usuários e nas tendências do mercado, visando torná-lo uma ferramenta cada vez mais
+eficaz para a empresa e seus clientes.
